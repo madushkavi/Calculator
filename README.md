@@ -1,4 +1,4 @@
-![Demo](Demo.mp4)
+![Demo](Demo.gif)
 
 # Getting Started with Create React App
 
